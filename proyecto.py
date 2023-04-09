@@ -1,4 +1,4 @@
 import pandas as pd
 
-df = pd.read_csv("https://raw.githubusercontent.com/GiomarMC/MILLIONAIRE_PROJECT/main/Numeros_Ganadores.csv")
+df = pd.read_csv("./Numeros_Ganadores.csv")
 print(df)
